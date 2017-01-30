@@ -2,7 +2,7 @@
 title: Hanson
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: "Hanson|Think Different"  
+description: "Freddy|Think Different"  
 baseurl: ""
 url: "http://freddy.github.io"  
 
@@ -18,8 +18,8 @@ favicon: img/favicon.png
 
 douban_username:  
 twitter_username: 
-github_username: zyphs21
-weibo_username: 汉森HS
+github_username: freddy
+weibo_username: freddy
 facebook_username:
 zhihu_username: 
 
@@ -51,9 +51,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : hanson
+    short_name : freddy
   disqus :
-      short_name : hanson
+      short_name : freddy
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
