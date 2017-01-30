@@ -4,12 +4,12 @@ header-img: "img/facebook.jpg"
 tagline: "cn"  
 description: "Hanson|Think Different"  
 baseurl: ""
-url: "http://zyphs21.github.io"  
+url: "http://freddy.github.io"  
 
 # About/contact
 owner: 
-  name: "张远平"
-  email: yuanpingzhang123@gmail.com
+  name: "傅春明"
+  email: freddycsu@gmail.com
   bio: ""
 
 # Data
@@ -21,7 +21,7 @@ twitter_username:
 github_username: zyphs21
 weibo_username: 汉森HS
 facebook_username:
-zhihu_username: zhang-yi-sen-46
+zhihu_username: 
 
 # Build settings  
 # use Github Flavored Markdown !important  
